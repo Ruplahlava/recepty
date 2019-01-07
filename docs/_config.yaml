@@ -25,3 +25,7 @@ theme_config:
 ignore:
   # development only: ignore sub node_modules when `npm link hexo-theme-doc`
   - '**/node_modules/**/*node_modules'
+deploy:
+  - type: git
+    repo: https://github.com/Ruplahlava/ruplahlava.github.io.git
+    branch: master
