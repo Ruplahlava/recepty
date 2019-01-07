@@ -24,3 +24,18 @@ main:
   - text: Hovězí
     type: link
     path: Hovezi/index.html
+  - text: Kuřecí
+    type: link
+    path: Kureci/index.html
+  - text: Vege
+    type: link
+    path: Vege/index.html
+  - text: Omáčky
+    type: link
+    path: Omacky/index.html
+  - text: Přílohy
+    type: link
+    path: Prilohy/index.html
+  - text: Ryby
+    type: link
+    path: Ryby/index.html
