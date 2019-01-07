@@ -9,3 +9,6 @@ main:
   - text: Grill
     type: link
     path: Grill/index.html
+  - text: Pečivo, sladké
+    type: link
+    path: Pecivo/index.html
