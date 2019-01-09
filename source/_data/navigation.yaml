@@ -39,3 +39,6 @@ main:
   - text: Ryby
     type: link
     path: Ryby/index.html
+  - text: Sous vide
+    type: link
+    path: SousVide/index.html
