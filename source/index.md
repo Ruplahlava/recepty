@@ -14,3 +14,4 @@ title: Recepty
 * [Vege](/Vege)
 * [Vepřík](/Veprik)
 * [Sous vide](/SousVide)
+* [Pomazánky](/Pomazanky)

@@ -42,3 +42,6 @@ main:
   - text: Sous vide
     type: link
     path: SousVide/index.html
+  - text: Pomazánky
+    type: link
+    path: Pomazanky/index.html
