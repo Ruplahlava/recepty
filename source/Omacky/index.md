@@ -102,3 +102,20 @@ vrstvy.
 • oregano
 • chilli
 • sůl
+
+## Majonéza
+- vše musí být pokojové teploty
+* 2 žloutky
+* 300ml oleje
+* lžička dijonské hořčice
+* šťáva z půl citronu
+* sůl
+
+## Tatarská omáčka
+* Majonéza
+* hořčice
+* lžíce bílého vína
+* česnek
+* cibule na jemno
+* nakládané okurky
+* cukr
