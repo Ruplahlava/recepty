@@ -42,3 +42,18 @@ K masové směsi přimícháme spařený špenát (můžeme, nemusíme). Dno zap
 Překryjeme plátky lasagní. Na to rozetřeme polovinu bešamelu. Na to nalijeme zbytek masové směsi, zase poklademe
 plátky lasagní a nakonec potřeme zbytkem bešamelu. Posypeme parmezánem a dáme zapéct na 30 minut na 200 stupňů.
 Nakonec 5 minut nastavit troubu na gril nezaškodí :)
+
+## Mac and cheese
+* uvařená kolínka 500g
+* cheddar 500g
+* nějaký ostřejší tvrdý sýr 250g
+* 1 lžíce [Octová omáčka](/Omacky/index.html#Octova-omacka)
+* 2 lžíce směsi sušenýho česneku, granulované cibule a soli (2-2-1)
+* Máslo
+* Mléko
+* 2 lžíce hladké mouky
+* půl sklenice majonézy
+* půl kelímku zakysané smetany
+* [Slaninová strouhanka](/Veprik/index.html#Slaninova-strouhanka) na posypání
+
+> Z másla a mouky udělat jíšku, přidat mléko a šlehat aby se neudělaly hrudky. Směsi by mělo být tolik aby se v ní rozpustil veškerý sýr. Přidat sýr, koření, a dobře rozpustit. Odstavit z ohně a vmíchat majonézu a smetanu. Smíchat s těstovinami a posypat strouhankou. Celé to vylít do vymazaného pekáče a vrazit na hodinu do trouby rozehřáté na 175 °C.

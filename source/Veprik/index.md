@@ -138,3 +138,10 @@ vidličkou.
 a ještě chvíli smažíme. Přidáme zbylé suroviny, zamícháme a
 vložíme do rozehřáté trouby na 160 ◦C a pečeme odklopené
 hodinu a půl, nebo do odpaření šťávy.
+
+## Slaninová strouhanka
+* slanina na plátky
+* suchý chleba
+
+>Slaninu dát na pečící papír do trouby zaplé na grill. Upražit do křupava.
+Rozlámaný chleba rozmixovat, poté slaninu. Neměla by to být úplná drť.

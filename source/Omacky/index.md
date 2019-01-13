@@ -104,7 +104,7 @@ vrstvy.
 • sůl
 
 ## Majonéza
-- vše musí být pokojové teploty
+**vše musí být pokojové teploty**
 * 2 žloutky
 * 300ml oleje
 * lžička dijonské hořčice
