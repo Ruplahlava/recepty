@@ -119,3 +119,13 @@ vrstvy.
 * cibule na jemno
 * nakládané okurky
 * cukr
+
+## Guga rub
+* 1/4 sůl
+* 1/4 hnědý cukr
+* 1/4 uzená paprika
+* lžička granulovaný česnek
+* lžička sušená cibule
+* lžička černý pepř
+* lžička kurkuma
+* lžička skořice
