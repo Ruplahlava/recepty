@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kureci
+title: Drubez
 date: 2019-01-07 12:28:57
 tags:
 ---
@@ -158,3 +158,15 @@ kuřete) a zbavíme kůže, nakrájíme na přiměřené kousky.
 10. Omáčku scedíme přes husté síto, příp. můžeme rozmixovat v mixeru dohladka.
 11. Do omáčky vložíme maso, necháme prohřát a podáváme
 s kynutými knedlíky, příp. těstovinami nebo rýží.
+
+## Dušená kachna na víně
+
+- kachna
+- rozmarýn
+- máta
+- máslo
+- pepř
+- vývar
+- sladké víno
+
+> Kachnu osolit, opepřit a nacpat kostkou másla. Do hrnce dát zbylé suroviny a dusit dvě až tři hodiny do změknutí.
