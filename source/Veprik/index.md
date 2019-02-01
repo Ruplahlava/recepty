@@ -145,3 +145,18 @@ hodinu a půl, nebo do odpaření šťávy.
 
 >Slaninu dát na pečící papír do trouby zaplé na grill. Upražit do křupava.
 Rozlámaný chleba rozmixovat, poté slaninu. Neměla by to být úplná drť.
+
+## Vepřové na Carnitas
+* 1,5kg krkovice
+* uzená sůl
+* 2 malé cibule
+* dva stroučky česneku
+* šťáva z jednoho pomeranče
+* chilli
+* sladká paprika
+* oregano
+* mletý kmín
+* litr vývaru
+
+> Krkovici nakrájet na velké kostky a spolu s ostatními surovinami nasypat do hrnce. Přikryté poklicí vařit na malém ohni 2 hodiny.
+Na konci vaření vše přendat do širokého pekáče a vrazit do vyhřáté trouby na 200 °C na půl hodiny. Maso vytáhnout z pekáče a šťávu zredukovat a poté vmíchat do masa. Podávat v tortille, se sekanými rajčaty, guacamole, salátem a sýrem. 
