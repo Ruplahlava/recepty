@@ -170,3 +170,17 @@ s kynutými knedlíky, příp. těstovinami nebo rýží.
 - sladké víno
 
 > Kachnu osolit, opepřit a nacpat kostkou másla. Do hrnce dát zbylé suroviny a dusit dvě až tři hodiny do změknutí.
+
+## Kuřecí fricassee s houbami
+
+- máslo
+- kuřecí prsa
+- bílé víno
+- rozmarýn, bazalka, petržel
+- žampiony na plátky
+- kuřecí vývar
+- žloutky rozšlehané s troškou vývaru
+- citron 
+- smetana
+
+> Na másle osmažíme kuře s houbami. Zalijeme vínem a vývarem. Přidáme bylinky, žloutky, citron, smetanu. 
