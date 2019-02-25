@@ -24,7 +24,7 @@ main:
   - text: Hovězí
     type: link
     path: Hovezi/index.html
-  - text: Kuřecí
+  - text: Drůbeží
     type: link
     path: Dubezi/index.html
   - text: Vege

@@ -4,7 +4,7 @@ title: Recepty
 # Recepty
 * [Grill](/Grill)
 * [Hovězí](/Hovezi)
-* [Kuřecí](/Kureci)
+* [Drůbeží](/Drubezi)
 * [Omáčky a jiné](/Omacky)
 * [Pečivo a sladké](/Pecivo)
 * [Polívky](/Polivky)
