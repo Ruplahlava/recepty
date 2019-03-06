@@ -26,7 +26,7 @@ main:
     path: Hovezi/index.html
   - text: Drůbeží
     type: link
-    path: Dubezi/index.html
+    path: Drubezi/index.html
   - text: Vege
     type: link
     path: Vege/index.html

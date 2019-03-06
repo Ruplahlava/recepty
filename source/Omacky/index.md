@@ -129,18 +129,3 @@ vrstvy.
 * lžička černý pepř
 * lžička kurkuma
 * lžička skořice
-
-## 1787 Brown Gravy 
-* hrnek vody
-* hrnek sladkého piva
-* nasekaná cibule
-* 3 kuličky pepře
-* tři stroučky česneku
-* mušátový květ
-* houby ideálně nakládané, lžíce
-* lžíce kečupu
-* ančovičku
-* lžička mouky
-* máslo
-
-> Na "vejci" másla osmahnout mouku, přidat zbylé suroviny a nechat vařit 45 min. Přecedit.

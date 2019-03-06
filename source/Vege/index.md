@@ -28,8 +28,9 @@ varu, stáhnout na spoř a nechat bublat 15 minut.
 • lučina 200g
 • jalapeno podle chuti
 • půl bílé papriky
-• koření (basic rub 11.9)
+• koření [basic rub 11.9](/Omacky/index.html#Basic-rub)
 • kapku mléka
+* majonézu
 • tortilla chips/ nachos jako příloha
 >Všechny suroviny smíchat(kromě výrazného cheddaru a
 chipsů) a vložit do zapékací pánve. Posypat výrazným cheddarem. Vložit do trouby vyhřáté na 160 ◦C. Vytáhnout až
