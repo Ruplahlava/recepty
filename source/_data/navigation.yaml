@@ -30,7 +30,7 @@ main:
   - text: Vege
     type: link
     path: Vege/index.html
-  - text: Omáčky
+  - text: Omacky a Kořenící směsi
     type: link
     path: Omacky/index.html
   - text: Přílohy

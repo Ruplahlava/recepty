@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Omacky
+title: Omacky a Kořenící směsi
 date: 2019-01-07 13:07:26
 tags:
 ---
@@ -129,3 +129,14 @@ vrstvy.
 * lžička černý pepř
 * lžička kurkuma
 * lžička skořice
+
+## Sweet and sour
+- hrnek ananasového džusu
+- 1/2 hrnku cukru
+- 1/2 hrnku rýžového octu
+- 1/2 hrnku kečupu
+- lžíce sojové omáčky
+- lžíce kukuřičného škrobu
+- dvě lžíce vody
+
+> Prvních pět ingrediencí smíchat na středním ohni. V misce bokem smíchejte škrom s vodou. Jakmile směs začne bublat, za stálého míchání pomalu přilt škrobovou směs. Přivést k varu a nechat vychladnout.

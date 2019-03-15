@@ -5,7 +5,7 @@ title: Recepty
 * [Grill](/Grill)
 * [Hovězí](/Hovezi)
 * [Drůbeží](/Drubezi)
-* [Omáčky a jiné](/Omacky)
+* [Omacky a Kořenící směsi](/Omacky)
 * [Pečivo a sladké](/Pecivo)
 * [Polívky](/Polivky)
 * [Přílohy](/Prilohy)
