@@ -45,3 +45,6 @@ main:
   - text: Pomazánky
     type: link
     path: Pomazanky/index.html
+  - text: Stir Fry
+    type: link
+    path: StirFry/index.html

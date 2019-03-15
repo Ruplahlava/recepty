@@ -84,7 +84,7 @@ Opečeme cibulku, posléze česnek a bobkový list. Přidáme
 zbytek surovin a maso. Pečeme cca 4 hodiny.
 Po upečení vyndáme maso a bobkový list. Omáčku zahustíme. Podáváme s kaší a hráškem prohřátým na másle.
 
-##  Hovězí po Brugundsku
+##  Hovězí po Burgundsku
 • Hovězí (zadní)
 • Žampiony
 • Máslo

@@ -15,3 +15,4 @@ title: Recepty
 * [Vepřík](/Veprik)
 * [Sous vide](/SousVide)
 * [Pomazánky](/Pomazanky)
+* [Stir Fry](/StirFry)
