@@ -365,3 +365,32 @@ Péct 45 minut.
 místě udělat kvásek.
 Ostatní přísady smíchat a hněteme. Nechat hodinu kynout.
 Pečeme 3/4 hodiny potřené vejcem.
+
+## Marlenka (Líba Lockerová)
+**Těsto**
+- 50dkg hl mouky
+- 20 cukru
+- 20 másla
+- 2 vejce
+- 2 lžíce medu
+- 2 lžičky vody smíchané s 2 lžícemi mléka
+
+> Rozdělíme na půl, válíme rovnou na pečícím papíře. První půlku pečeme 15-20 minut na 150 °C
+> Na druhou rozválenou půlku dáme směs, kterou usmažíme v kastrůlku do zlatova, poté pečeme stejně.
+
+**Směs**
+- 45 - 50 hrubě mletých ořechů
+- 8 cukru
+- 12 másla
+- 3 lžičky medu
+
+**Krém**
+- 2 skleničky mléka
+- 1 vrchovatá lžíce hl mouky
+- 1 vrchovatá lžíce solamylu
+- 10 cukru
+- vanilkový cukr
+- 2.5 citronu
+
+> Vaříme jako puding, dáme vychladit, smícháme do utřeného másla, nakonec dáme šťávu  z citronu.
+> První placku namašlujeme vodou s rumem, necháme vsáknout. Potom krém, ne to dáme druhou vrstvu s ořechy, nechat den uležet.
