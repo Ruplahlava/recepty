@@ -4,19 +4,46 @@ title: Testoviny
 date: 2019-01-07 12:20:21
 tags:
 ---
+# Těstoviny
+
+## Těsto
+
+* 200g hl mouky
+* 2 celá vejce
+* 2 žloutky
+* špetka soli
+
+Zpracvat ručně nebo v robotu, vychladit aspoň půl hodiny v lednici. V průběhu válení zbylé těsto balit do vlhké utěrky.
+
+## Ravioli masové
+
+* [těsto na těstoviny](/Testoviny/index.html#Lasagne-ala-Terezka)
+* bůček mletý
+* ricotta
+* parmezán
+* česnek nakrájený nedrobno
+* oregano
+* cibule najemno, osmažená v olivovém oleji
+* sůl
+
 ## Lasagne alá Terezka
+
 • 100g listový špenát
 • cca 500-750g masová hovězí směs
 • bešamel
 • plátky lasagní
 • parmezán na posypání
+
 ### Bešamel
+
 • 4 lžíce hladké mouky
 • 40g másla
 • 600ml mléka
 • 50g parmezánu
 • sůl, pepř
+
 ### Masová směs
+
 • 600g hovězího mletého masa
 • 4 plátky slaniny
 • velká cibule
@@ -44,6 +71,7 @@ plátky lasagní a nakonec potřeme zbytkem bešamelu. Posypeme parmezánem a d�
 Nakonec 5 minut nastavit troubu na gril nezaškodí :)
 
 ## Mac and cheese
+
 * uvařená kolínka 500g
 * cheddar 500g
 * nějaký ostřejší tvrdý sýr 250g
