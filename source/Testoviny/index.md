@@ -13,7 +13,7 @@ tags:
 * 2 žloutky
 * špetka soli
 
-Zpracvat ručně nebo v robotu, vychladit aspoň půl hodiny v lednici. V průběhu válení zbylé těsto balit do vlhké utěrky.
+> Zpracvat ručně nebo v robotu, vychladit aspoň půl hodiny v lednici. V průběhu válení zbylé těsto balit do vlhké utěrky.
 
 ## Ravioli masové
 
@@ -25,6 +25,8 @@ Zpracvat ručně nebo v robotu, vychladit aspoň půl hodiny v lednici. V průb�
 * oregano
 * cibule najemno, osmažená v olivovém oleji
 * sůl
+
+> Vařit v osolené vodě 6-8 minut.
 
 ## Lasagne alá Terezka
 
