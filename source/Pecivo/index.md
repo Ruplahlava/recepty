@@ -321,20 +321,22 @@ Na mandarinky nasypeme zbytek drobenky. Na makovou náplň ozdobně naskládáme
 asi 50 minut. Poté necháme krátce vychladnout ve formě. Pak
 formu sejmeme a koláč nakrájíme.
 
-### Lívance
-• máslo na smažení
-• špetka soli
-• 300g hl mouky
-• 2 vejce
-• prdopeč
-• 400ml mléka
-• 6 lžic oleje
-• 4 lžíce cukru
->Suroviny kromě másla a prdopeče míchat několik minut do
-hladkého těsta. Nechat 30 min odestát. Vmíchat prdopeč a
-nechat chvilku bobtnat. Smažit na trošce másla na mírném
-plameni.
+## Lívance
+
+* 50  g máslo
+* 1  špetka sůl
+* 150  g hladká mouka
+* 1  ks vejce
+* 200  ml mléko
+* 2  lžička prášek do pečiva
+* malinový džem
+* 3  lžíce olej
+* 2  lžíce cukr
+
+>Všechny suché suroviny dobře smícháme, v jiné nádobě rozmícháme vejce, mléko a olej. Směs s mlékem přidáme k suchým surovinám, ručním mixérem zpracujeme v hladké těsto, několik minut necháme nabobtnat. Na pánvi rozpustíme trochu másla nebo margarínu, vložíme po čtvrtce těsta a necháme při nízké teplotě opatrně péct (rychle ztmavnou). Otočíme, jakmile není vrchní strana už tekutá, a druhou stranu pečeme také dozlatova. K lívancům chutná obzvlášť dobře malinový džem.
+
 ## Tvarohový táč meruňkový
+
 **Našlehat**
 • 1kg tvarohu
 • 4 vejce
@@ -367,6 +369,7 @@ Ostatní přísady smíchat a hněteme. Nechat hodinu kynout.
 Pečeme 3/4 hodiny potřené vejcem.
 
 ## Marlenka (Líba Lockerová)
+
 **Těsto**
 - 50dkg hl mouky
 - 20 cukru

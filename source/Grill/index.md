@@ -2,8 +2,10 @@
 title: Grill
 type: grill
 ---
+# Grill
 
 ##  Pikantní asijské kuře
+
 • Čerstvý zázvor
 • Med
 • Rybí omáčka - tímhle nešetřit, bacha hodně slané
@@ -18,6 +20,7 @@ Nechat den odležet. Kořením rozhodně nešetřit
 {% endblockquote  %}
 
 ## Pikantní vepřové
+
    • Krkovička, bůčíček, kotletka...
    • Jablečný mošt, jablka...
    • Hnědý cukr
@@ -30,6 +33,7 @@ Nechat den odležet. Kořením rozhodně nešetřit
 {% endblockquote  %}
 
 ## Pikantní hamburger
+
    Pohlreich
    • Mleté hovězí maso
    • zelený pepř
@@ -39,6 +43,7 @@ Nechat den odležet. Kořením rozhodně nešetřit
    • Pepř čerstvě mletý, mořská sůl
    
 ## Sladkokyselá žebírka po thajsku
+
    • 2kg žeber bez kůže
    • cibulka najemno
    • 2 stroužky česneku
@@ -55,7 +60,9 @@ Nechat den odležet. Kořením rozhodně nešetřit
 {% endblockquote  %}
 
 ## Tex-mex vepřová žebra
+
 ### Na "vývar"
+
 • 1 cibule, rozčtvrcená
 • palice česneku, přepůlená
 • 90g třtinového cukru
@@ -67,7 +74,9 @@ Nechat den odležet. Kořením rozhodně nešetřit
 • 1 lžíce celého pepře
 • 2kg vepřových žeber
 • limetka k podávání
+
 ### Na BBQ marinádu
+
 • 1 cibule nahrubo
 • 2 stroučky česneku
 • 90g třtinového cukru
@@ -87,7 +96,8 @@ ostatními přísadami dát do rendlíku a přívést k varu. Ztlumit plamen a v
 Horká žebra zalít omáčkou a důkladně potřít. Nechat marinovat přes noc.
 {% endblockquote  %}
 
-##  Grilovaná kukuřice dle Toma
+## Grilovaná kukuřice dle Toma
+
    • Kukuřice
    • Limetková šťáva a kůra
    • Chilli omáčka
@@ -101,6 +111,7 @@ Horká žebra zalít omáčkou a důkladně potřít. Nechat marinovat přes noc
 {% endblockquote  %}
 
 ## Grilovaná Jack Daniels žebra
+
    • plochá syrová vepřová žebra
    • Jack Daniels
    • Jack Daniels Glazura 11.8
@@ -116,3 +127,13 @@ Horká žebra zalít omáčkou a důkladně potřít. Nechat marinovat přes noc
    Žebra rozbalit a potřít glazurou. Vrátit na deset minut na
    gril a potom nechat deset minut odpočinout.
    {% endblockquote  %}
+
+## Grilovaná kukuřice s česnekovým máslem
+
+* kukuřice
+* máslo ~75g
+* tři stroučky česneku
+* čerstvá bazalka
+* sůl
+
+> Změklé máslo promícháme se solí a kořením, dáme do potravinové folie, vytvarujeme váleček a dáme do ledničky. Kukuřici grilujeme do zlatova a v průběhu potíráme máslem. Po sundání z grilu ještě potřeme větší vrstvou másla.

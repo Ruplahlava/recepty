@@ -4,7 +4,10 @@ title: Vege
 date: 2019-01-07 12:33:15
 tags:
 ---
+#V ege
+
 ## Curry z červené čočky
+
 • červená čočka uvařená dle obalu (250g)
 • 1 cibule
 • kostka másla
@@ -23,6 +26,7 @@ poté přidat zbylé koření a také opražit. Přidat rajčata a míchat do hl
 varu, stáhnout na spoř a nechat bublat 15 minut.
 
 ## Texaské fondue
+
 • cheddar mild nastrouhaný 300g
 • cheddar výrazný na posypání
 • lučina 200g
@@ -38,6 +42,7 @@ směs bude lehce bublat a nechat chvíli vychladnout. Podávat
 s chipsy k nabírání.
 
 ## Grilovaná cherry rajčata s domácím pestem
+
 • Cherry rajčátka, nejlépe na větvičce
 • Parmezán (grand moravia)
 • čerstvý tymián a rozmarýn
