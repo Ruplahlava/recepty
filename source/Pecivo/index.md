@@ -397,3 +397,26 @@ Pečeme 3/4 hodiny potřené vejcem.
 
 > Vaříme jako puding, dáme vychladit, smícháme do utřeného másla, nakonec dáme šťávu  z citronu.
 > První placku namašlujeme vodou s rumem, necháme vsáknout. Potom krém, ne to dáme druhou vrstvu s ořechy, nechat den uležet.
+
+## Toastový máslový chléb
+
+* 50g másla
+* 450g vlažné vody
+* 30g droždí
+* 750g hl mouky
+* 14g soli
+* olej na vymazání formy
+* forma na biskupský chlebíček 30 x 10 x 10
+
+1. Vyndej máslo z lednice a nech změknout 
+1. Do robotu dej nástavec hák
+1. Do mísly dej nejprve vodu, poté rozdrobené droždí a potom ostatní suroviny.
+1. Míchat na střední rychlost do hladkého těsta
+1. Vál posypat moukou, vylít těsto a přikryté nechat 30 min kynout na teplém místě
+1. Těsto dozdělit na 8 dílů a z nich udělej kuličky
+1. Vymaž olejem formu a vlož do ní kuličky vedle sebe
+1. Nechat kynout na teplém místě 45 - 50 min, aby bylo cca 2 cm nad okraj formy
+1. Trouba na 250, rozprašovačem pošlíchat stěny, nebo rukou pár kapek na stěny. Vložit formu. Nutné pracovat rychle.
+1. Péct 3 minuty
+1. Otevřít troubu aby odešla přebytečná pára a snížit teplotu na 175°C, péct dalších 35 minut.
+1. Vyklopit z formy a nechat zchladnout na mřížce.
