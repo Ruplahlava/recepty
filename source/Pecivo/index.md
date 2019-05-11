@@ -4,6 +4,7 @@ title: Pečivo, sladké
 date: 2019-01-07 11:45:21
 tags:
 ---
+# Pečivo, sladké
 
 ## Rychlokvašky
    • 1/2 hl mouky
@@ -420,3 +421,18 @@ Pečeme 3/4 hodiny potřené vejcem.
 1. Péct 3 minuty
 1. Otevřít troubu aby odešla přebytečná pára a snížit teplotu na 175°C, péct dalších 35 minut.
 1. Vyklopit z formy a nechat zchladnout na mřížce.
+
+## Créme brulée
+
+* 600 ml smetana
+* 150 g cukr
+* 1 ks vanilkový lusk
+* 6 ks žloutek
+
+>Žloutky utřeme s cukrem. Vanilku rozpůlíme a spolu se smetanou přivedeme k varu. Po vychladnutí vyjmeme vanilkovou tobolku a smetanu vmícháme do utřených žloutků. Při tření žloutků vždy dáváme pozor, aby se netvořila pěna.
+
+>Poté nalijeme do mělkých zapékacích misek. V troubě předehřáté na 100 °C pečeme něco málo přes hodinu. Krém by neměl zůstat tekutý, ale ani ne úplně tuhý. V případě potřeby můžeme nechat v troubě déle. Nezvyšujeme však teplotu. Výsledkem by měl být tak akorát třaslavý krém.
+
+>Krém necháme úplně vychladnout a ztuhnout. Před podáváním créme brulée posypeme lehce cukrem, nejlépe třtinovým, a opálíme.
+
+>Karamelu dosáhneme buď pomocí cukrářské plynové pistole, nebo pod hodně rozpáleným grilem v troubě, případně takovým francouzským železným karamelizérem (Fer à caraméliser), který se nahřeje a přiloži k cukrovému povrchu.
