@@ -1,10 +1,14 @@
+# Omáčky a Kořenící směsi
+
 ---
 layout: page
 title: Omacky a Kořenící směsi
 date: 2019-01-07 13:07:26
 tags:
 ---
-## BBQ
+
+## BBQ v1
+
 > Na lžíci oleje opéct cibulku a česnek nakrájené nadrobno se špetkou chilli do sklovata
 
 • Přidat 400g kečupu
@@ -13,6 +17,24 @@ tags:
 • 2 lžíce worcesterské omáčky
 • 1 lžíce rajského protlaku
 > Nechat bublat asi půl hodiny, rozmixovat
+
+## BBQ v2 - alabama
+
+* malý hrnek na vše
+* 1 hrnek kečupu
+* 1/4 hrnku jablečného octa
+* 1/2 hrnku třtinového cukru
+* lžička sušeného česneku
+* lžička sušené(granulované) cibule
+* lžička dijonské hořčice
+* lžíce worchestrové omáčky
+* lžíce třtinové melasy
+* chilli
+* mletý pepř
+* uzená sůl
+
+> Vše promíchat a nechat cca hodinu pomalu bublat na ohni
+
 
 ## Smetanová omáčka s plísňovým sýrem
 • 6 posekaných jarních cibulek
@@ -104,7 +126,9 @@ vrstvy.
 • sůl
 
 ## Majonéza
+
 **vše musí být pokojové teploty**
+
 * 2 žloutky
 * 300ml oleje
 * lžička dijonské hořčice
