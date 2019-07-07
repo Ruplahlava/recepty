@@ -87,3 +87,31 @@ Nakonec 5 minut nastavit troubu na gril nezaškodí :)
 * [Slaninová strouhanka](/Veprik/index.html#Slaninova-strouhanka) na posypání
 
 > Z másla a mouky udělat jíšku, přidat mléko a šlehat aby se neudělaly hrudky. Směsi by mělo být tolik aby se v ní rozpustil veškerý sýr. Přidat sýr, koření, a dobře rozpustit. Odstavit z ohně a vmíchat majonézu a smetanu. Smíchat s těstovinami a posypat strouhankou. Celé to vylít do vymazaného pekáče a vrazit na hodinu do trouby rozehřáté na 175 °C.
+
+## Těstoviny se sicilským pestem
+
+### Pesto
+
+* 250g riccoty
+* 50g parmezánu
+* hrst petrželky
+* 2 stroučku česneku 
+* 2 sardelové řezy
+* špetka chilli
+* hrst černých oliv bez pecky
+* 2 lžičky kaparů
+* 6-8 nakládaných rajčat
+* olivový olej
+
+Na oleji osmažíme česnek na plátky, chilli a sardelové řezy. Přidejte kapary, nakládaná rajčata a míchat jestě minutu.
+Směs rozmixovat a přidat olivy a petrželku nakrájené najemno.
+
+### Směs na těstoviny
+
+* 150g choriza na plátky
+* půl velké papriky nakrájené nadrobno
+* lžíce čerstvého oregana
+* cibule najemno
+
+Osmahnout chorizo, poté přidat papriku a cibulku a smažit do změknutí.
+Přidat žufánek vody z uvařených těstovin a smíchat s pestem a následně těstovinami podle volby. Ozdobit oreganem.
