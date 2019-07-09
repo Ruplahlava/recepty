@@ -183,4 +183,17 @@ s kynutými knedlíky, příp. těstovinami nebo rýží.
 - citron 
 - smetana
 
-> Na másle osmažíme kuře s houbami. Zalijeme vínem a vývarem. Přidáme bylinky, žloutky, citron, smetanu. 
+> Na másle osmažíme kuře s houbami. Zalijeme vínem a vývarem. Přidáme bylinky, žloutky, citron, smetanu.
+
+## Opékané kuře na smetaně se špenátem
+
+* kuřecí čtvrtky 
+* smetana
+* čerstvý listový špenát
+* parmezán
+* česnek
+* cibule
+* oregano
+
+> Osolené opepřené kuře opražíme ve vysoké pánvi do hněda. Vyndat kuře z pánve a osmažit cibuli a následně česnek.
+Přidat smetanu, špenát a parmezán, oregano, vařit do změknutí španátu. Vrátit kuře a nechat bublat.

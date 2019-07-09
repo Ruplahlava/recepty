@@ -103,7 +103,7 @@ Nakonec 5 minut nastavit troubu na gril nezaškodí :)
 * 6-8 nakládaných rajčat
 * olivový olej
 
-Na oleji osmažíme česnek na plátky, chilli a sardelové řezy. Přidejte kapary, nakládaná rajčata a míchat jestě minutu.
+> Na oleji osmažíme česnek na plátky, chilli a sardelové řezy. Přidejte kapary, nakládaná rajčata a míchat jestě minutu.
 Směs rozmixovat a přidat olivy a petrželku nakrájené najemno.
 
 ### Směs na těstoviny
@@ -113,5 +113,5 @@ Směs rozmixovat a přidat olivy a petrželku nakrájené najemno.
 * lžíce čerstvého oregana
 * cibule najemno
 
-Osmahnout chorizo, poté přidat papriku a cibulku a smažit do změknutí.
+> Osmahnout chorizo, poté přidat papriku a cibulku a smažit do změknutí.
 Přidat žufánek vody z uvařených těstovin a smíchat s pestem a následně těstovinami podle volby. Ozdobit oreganem.
