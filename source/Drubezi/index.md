@@ -197,3 +197,37 @@ s kynutými knedlíky, příp. těstovinami nebo rýží.
 
 > Osolené opepřené kuře opražíme ve vysoké pánvi do hněda. Vyndat kuře z pánve a osmažit cibuli a následně česnek.
 Přidat smetanu, špenát a parmezán, oregano, vařit do změknutí španátu. Vrátit kuře a nechat bublat.
+
+## Chicken Butter
+
+### Na kuře a marinádu:
+  
+* 650 g kuřecích prsou nebo stehenních řízků, nakrájené na kousky
+* 3 lžíce citrónové šťávy
+* 2 stroužky česneku, propasírované
+* 2 cm zázvoru, nastrouhaný
+* 1 lžíce garam masala
+* 4 lžíce plnotučného bílého jogurtu
+  
+### Na omáčku:
+* rostlinný olej na smažení
+* 2-3 velké cibule, na kostičky
+* 4 stroužky česneku, propasírované
+* 2 lžíce garam masala
+* 1 lžička mletého koriandru
+* 2 lžičky sladké papriky
+* 1/2 lžičky kurkumy
+* špetka skořice
+* (chilli podle chuti)
+* 400 ml konzervovaných rajčat, pokrájených
+* 350 ml sladké smetany 33%
+* 2 lžíce másla
+* mořská sůl
+* rozmixované nesolené kešu (nemusí být)
+
+
+>Smíchejte všechny ingredience na marinádu včetně masa, dobře promíchejte a nechte marinovat při pokojové teplotě, než připravíte omáčku a nebo ideálně do druhého dne v lednici.
+
+>Rozehřejte olej ve velkém hrnci na střední výkon. Opražte kuře a vytáhněte ho ven. Přidejte všechnu cibuli a pomalu ji restujte, dokud nebude zlatá. To může trvat až 20 minut.
+
+>Přidejte česnek a restujte než zkřehne. Vmíchejte všechno koření a restujte ještě minutu, dokud se nerozvoní. Pak přidejte rajčata, po pár minutách i smetanu. Omáčku pomocí ponorného mixéru nebo blenderu rozmixujte do hladka a podle chuti osolíme, případně nařeďte smetanou. Opět zahřejte a až bude omáčka jemně probublávat. Vmíchejte kuře, máslo.
