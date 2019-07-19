@@ -204,15 +204,13 @@ Přidat smetanu, špenát a parmezán, oregano, vařit do změknutí španátu. 
   
 * 650 g kuřecích prsou nebo stehenních řízků, nakrájené na kousky
 * 3 lžíce citrónové šťávy
-* 2 stroužky česneku, propasírované
-* 2 cm zázvoru, nastrouhaný
+* 1 lžíce zázvorovo česnekové pasty
 * 1 lžíce garam masala
 * 4 lžíce plnotučného bílého jogurtu
   
 ### Na omáčku:
-* rostlinný olej na smažení
 * 2-3 velké cibule, na kostičky
-* 4 stroužky česneku, propasírované
+* 2 lžíce zázvorovo česnekové pasty
 * 2 lžíce garam masala
 * 1 lžička mletého koriandru
 * 2 lžičky sladké papriky
@@ -221,13 +219,13 @@ Přidat smetanu, špenát a parmezán, oregano, vařit do změknutí španátu. 
 * (chilli podle chuti)
 * 400 ml konzervovaných rajčat, pokrájených
 * 350 ml sladké smetany 33%
-* 2 lžíce másla
+* máslo dle chuti (hodně)
 * mořská sůl
-* rozmixované nesolené kešu (nemusí být)
+* 60g rozmixované nesolené kešu s trochou vody
 
 
->Smíchejte všechny ingredience na marinádu včetně masa, dobře promíchejte a nechte marinovat při pokojové teplotě, než připravíte omáčku a nebo ideálně do druhého dne v lednici.
+>Smíchejte všechny ingredience na marinádu včetně masa, dobře promíchejte a nechte marinovat při pokojové teplotě,  dvacet minut až hodinu.
 
->Rozehřejte olej ve velkém hrnci na střední výkon. Opražte kuře a vytáhněte ho ven. Přidejte všechnu cibuli a pomalu ji restujte, dokud nebude zlatá. To může trvat až 20 minut.
+>Rozehřejte máslo ve velkém hrnci/pánvi na plný výkon. Opražte kuře a vytáhněte ho ven. Přidejte všechnu cibuli a pomalu ji restujte, dokud nebude zlatá. To může trvat až 20 minut.
 
 >Přidejte česnek a restujte než zkřehne. Vmíchejte všechno koření a restujte ještě minutu, dokud se nerozvoní. Pak přidejte rajčata, po pár minutách i smetanu. Omáčku pomocí ponorného mixéru nebo blenderu rozmixujte do hladka a podle chuti osolíme, případně nařeďte smetanou. Opět zahřejte a až bude omáčka jemně probublávat. Vmíchejte kuře, máslo.
