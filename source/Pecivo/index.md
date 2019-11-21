@@ -430,9 +430,44 @@ Pečeme 3/4 hodiny potřené vejcem.
 * 6 ks žloutek
 
 >Žloutky utřeme s cukrem. Vanilku rozpůlíme a spolu se smetanou přivedeme k varu. Po vychladnutí vyjmeme vanilkovou tobolku a smetanu vmícháme do utřených žloutků. Při tření žloutků vždy dáváme pozor, aby se netvořila pěna.
-
 >Poté nalijeme do mělkých zapékacích misek. V troubě předehřáté na 100 °C pečeme něco málo přes hodinu. Krém by neměl zůstat tekutý, ale ani ne úplně tuhý. V případě potřeby můžeme nechat v troubě déle. Nezvyšujeme však teplotu. Výsledkem by měl být tak akorát třaslavý krém.
-
 >Krém necháme úplně vychladnout a ztuhnout. Před podáváním créme brulée posypeme lehce cukrem, nejlépe třtinovým, a opálíme.
-
 >Karamelu dosáhneme buď pomocí cukrářské plynové pistole, nebo pod hodně rozpáleným grilem v troubě, případně takovým francouzským železným karamelizérem (Fer à caraméliser), který se nahřeje a přiloži k cukrovému povrchu.
+
+
+## Chleba kváskový
+
+* 500g žitného rozkvasu
+* 500g bílé mouky
+* 250-350ml vody
+* 20g soli
+* 5g + 5g drceného/celého kmínu
+
+1. Do zadělávací mísy odvažte 500 g právě dozrálého žitného kvasu, 500 g pšeničné chlebové mouky, promíchejte a přilévejte opatrně vodu, dokud nebude všechna mouka namočená. Bude to asi 250-350 g. Navrch odvažte 20 g soli a 10 g kmínu (půl napůl celý a mletý).
+1. Nechte stát 20 minut.
+1. Zpracujte vařečkou nebo hnětacím robotem s hákem na elastické hladké těsto, chce to asi 12-15 minut tvrdé práce.
+1. Zadělané těsto, které ještě pořád mírně lepí, přemístěte ve formě koule do olejem vymazané nádoby, nádobu uzavřete.
+1. Nechte nakynout zhruba o polovinu objemu, trvá to asi jednu hodinu.
+1. Těsto vyklopte na mírně pomoučenou pracovní plochu, rukama od mouky roztáhněte na podlouhlý tvar o délce asi 40 cm a po třetinách přeložte. Otočte na ploše o 90 stupňů, znovu natáhněte a znovu přeložte. Snažte se nevymačkat všechen plyn z těsta, pracujte zlehka a svižně. Když se těsto přilepí na plochu, pomůže vám nejlépe pekařská karta. Odložte zpět do vymaštěné nádoby a uzavřete.
+1. Počkejte znovu 45 minut, znovu na mírně pomoučené pracovní ploše nadvakrát přeložte, vytvarujte tlustou šišku, uzavřete švy.
+1. Vysypte ošatku na kynutí žitnou moukou a vložte vytvarovaný bochník švem nahoru.
+1. Nechte kynout poslední hodinu v uzavřené troubě, může být mírně zahřátá na 25-30 °C.
+1. Z trouby-kynárny vyndejte ošatku s nakynutým pecnem, který teď mírně vykukuje nad okraje. Na dno trouby připravte nějakou nízkou nádobu, třeba pekáč, plechový odkapávač nebo misku od Remosky. Troubu ohřejte na 230 °C (nutno měřit teploměrem). Ohřejte k bodu varu dvě deci vody.
+1. V momentě, kdy je trouba vyhřátá, vyložte na plech pečící papír a vyklopte na něj otočením vykynutý bochník z ošatky. Bochník ozdobte nařezáním žiletkou. Plech vložte do trouby, vroucí vodu nalijte do horké nádoby na dně trouby, troubu uzavřete. Vše s maximální opatrností ale bez otálení.
+1. Nechte chléb zapékat asi 15 minut, poté páru odvětrejte a bochník otočte, aby se mu oba konce propekly rovnoměrně.
+1. V momentě, kdy je kůrka zapečená do hněda (asi po 25 minutách od úplného začátku pečení), snižte teplotu na 180 °C a dopékejte po dobu zbývajících 15 minut.
+1. Celková doba pečení je 40 minut.
+1. Pecen vyndejte z trouby a přemístěte z plechu na mřížku, bez papíru.
+1. Nechte dokonale vychladnout minimálně tři hodiny, ideálně přes noc. Mezi tím nekrájejte!
+
+## Indické placky čápátí
+
+* 200 ml vlažná voda
+* 500 g polohrubá pšeničná mouka
+* 0,5 lžičky sůl
+* 1 - 2 lžic rostlinný olej
+
+>V míse promícháme prosátou mouku, olej, sůl, mletý pepř, vlažnou vodu a vypracujeme tuhé těsto.
+>Z těsta uděláme váleček, který rozdělíme na 8 dílů. Z každého dílu vytvoříme kuličku. Válečkem vyválíme z kuliček tenké placky o průměru 20 - 25 cm a pečeme je z jedné strany 3 minuty a z druhé 2 minuty na suché pánvi.
+>Hotové placky čápátí skládáme na sebe, aby zůstaly vláčné. Přikryjeme je utěrkou, aby nevychladly. Z jedné strany potíráme placky čápátí máslem.
+>Indické placky čápátí se používají v Indii místo chleba jako příloha. Hodí se k dušené zelenině, dobře chutnají s oranžovou čočkou či na sladko se zavařeninou.

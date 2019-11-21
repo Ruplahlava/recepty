@@ -45,3 +45,13 @@ oleji osmahneme
 • 40g másla
 • 2 vejce
 • sůl
+
+## Indické placky Čapátí
+
+- 500g polohrubé mouky
+- 200ml vody
+- dvě lžíce oleje
+- máslo na potírání
+
+> Z mouky vody a oleje vypracujeme tuhé těsto a dozdělíme na 8 částí a z nich uděláme kuličky.
+> Z kuliček vyválet tenké placku a opékat na suché pánvi. Po vytažení pomazat máslem a skládat na sebe pod poklici, aby zůstaly teplé. 
