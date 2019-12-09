@@ -47,20 +47,20 @@ Kachnu naporcujte tak, jak jste zvyklí. Snažte se ale každému ze strávník�
 úpravě obzvlášť fenomenální! Maso je lahodné, krásně růžové, křupavé, a přitom vláčné. Podávejte s knedlíky a zelím.
 
 ## Paštika s brusinkami
-• 400 g kuřecích jater
-• 150 g másla + 50 g na závěrečné zalití
-• 1 stroužek česneku, prolisovaný
-• 1 šalotka, nasekaná
-• Bílé víno
-• Brusinky + brusinková marmeláda
-• 2 lžíce smetany ke šlehání
->Játra důkladně očistěte. Ve velké hlubší pánvi zahřejte oříšek
-másla a osmahněte na něm šalotku s česnekem, dvě minuty
-stačí. Nechte minutu rozvonět, přidejte játra a opečte je dohněda - při zmáčknutí by měla zůstat pružná, uvnitř růžová,
-ale zároveň ne syrová. Přidat trochu brusinek a půl lžíce marmelády, zacáknout vínem.
-Promixujte na pastu. Přidat zbývající máslo, smetanu, sůl
-pepř a znovu promíchat.
-Nandejte do sklenic a přelijte rozpuštěným máslem.
+- 400 g kuřecích jater
+- 150-200 g másla + 50 g na závěrečné zalití
+- rum / brandy (rumem nemyslím božkov)
+- brusinky + brusinková marmeláda
+- smetana ke šlehání
+- sůl a čerstvě mletý pepř
+
+> Játra očistit a dát do mísy, zalít alkoholem dle výběru a opepřit. Nechat cca 12h ležet v chladu. Hodinu před smažením vyndat z lednice a dát do cedníku. Štávu zachovat.
+> Na silnostěnné pánvi/kastrolu rozehřát polovinu másla. Potřeba neustále míchat i při rozpouštění, aby se máslo nepřipálilo.
+> Na nejvyšší výkon játra opražit do měkka, přidat slitou šťávu, lehce nechat povařit.
+> Pryč z ohně a přidat zbytek másla, zde více/méně podle chuti. Jen pozor, máslo samozřejmě v chladu tuhne.
+> Stále teplé rozšlehat se smetanou, brusinkovou marmeládou (Nebo nějakou jinou kyselou marmeládou) a solí. Smetanu dávkovat postupně, směs by měla konzistencí odpovídat krupičné kaši.
+> Pro efekt vmíchat pokrájené brusinky.
+> Naplnit do nádob a zalít rozpuštěným máslem (není nutné, prodlužuje trvanlivost) a dát chladit.
 
 ## Kuře s nádivkou
 • Kuře
