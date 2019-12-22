@@ -115,3 +115,17 @@ Směs rozmixovat a přidat olivy a petrželku nakrájené najemno.
 
 > Osmahnout chorizo, poté přidat papriku a cibulku a smažit do změknutí.
 Přidat žufánek vody z uvařených těstovin a smíchat s pestem a následně těstovinami podle volby. Ozdobit oreganem.
+
+
+## Bešamel
+
+* 0.5l mlika
+* cibule
+* dva stroucky cesneku
+* bobkac
+* 50g masla
+* 50g mouky
+
+> Mléko s cibulí na půlky, česnekem a bobkáčem přivedeme k varu a necháme potom odstát 20 min.
+> Máslo v jiném kastrolu rozpustime a přimícháme mouku, chvíli opékáme.
+> Postutpně přimíchát zcezené mléko a chvíli povařit. 
