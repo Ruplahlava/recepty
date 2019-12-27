@@ -14,5 +14,6 @@ title: Recepty
 * [Vege](/Vege)
 * [Vepřík](/Veprik)
 * [Sous vide](/SousVide)
+* [Papiňák](/Papinak)
 * [Pomazánky](/Pomazanky)
 * [Stir Fry](/StirFry)
