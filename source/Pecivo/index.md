@@ -471,3 +471,43 @@ Pečeme 3/4 hodiny potřené vejcem.
 >Z těsta uděláme váleček, který rozdělíme na 8 dílů. Z každého dílu vytvoříme kuličku. Válečkem vyválíme z kuliček tenké placky o průměru 20 - 25 cm a pečeme je z jedné strany 3 minuty a z druhé 2 minuty na suché pánvi.
 >Hotové placky čápátí skládáme na sebe, aby zůstaly vláčné. Přikryjeme je utěrkou, aby nevychladly. Z jedné strany potíráme placky čápátí máslem.
 >Indické placky čápátí se používají v Indii místo chleba jako příloha. Hodí se k dušené zelenině, dobře chutnají s oranžovou čočkou či na sladko se zavařeninou.
+
+## Cinnamon rolls - Skořicoví šneci
+
+### Těsto
+
+- 2 cup teplého mléka
+- 1/2 cup hnědého cukru
+- 113g rozpuštěného másla
+- balíček sušených kvasnic
+- 4 + 1 cup hl mouky
+- 1 balení prdopeč
+- dvě lžičky soli
+
+### Náplň
+
+- 3/4 cup hnědého cukru
+- 170g změklého másla (na topení, v troubě)
+- dvě lžíce mleté skořice
+
+### Poleva
+
+- 113g lučiny
+- dvě lžíce rozpuštěného másla
+- 4 lžíce mléka
+- lžička vanilkového extraktu
+- 1 cup cukr moučka
+
+> Začneme těstem. Ve velké míse smícháme teplé mléko, máslo a cukr. Poprášit zvrchu kvasnicemi a nechat 10 minut kvasnice nastartovat. Poté vmíchat 4 cup mouky, vznikne nepříliš tuhé těsto. Nechat kynout cca hodinu pod folií, těsto by se mělo skoro zdvonásobit.
+>
+> Mezitím udělat náplň, stačí suroviny promíchat v misce.
+>
+> Do nakynutého těsta přidáme zbylou mouku, prdopeč, sůl. Hněteme asi deset minut ručně na válu. Pokud bude těsto lepit přidat mouku, ale čím míň tím lépe. Těsto by mělo být pružné a hladké.
+>
+> Rozválet na obdelník, ani ne 1cm tlusté a potřít náplní a opatrně - rovnoměrně srolovat. Nití nakrájet na 2-3 cm široká kolečka a dát do máslem vymaštěného pekáče. Nemačkat to moc na sebe, ještě by to mělo mít prostor kynoout. V tuto chvíli jde přebytečné rolky umístnit do mrazáku, cca na 3 měsíce.
+>
+> Nechat kynout na teplém místě cca 40 - 45 min.
+>
+> Dát do trouby vyhřáté na 180°C  a péct do zlatova 25-30 min. Ke konci stáhnout teplotu. Nechat chládnout 10 min.
+>
+> Všechny suroviny na polevu kromě cukru smíchat a poté postupně vešlehávat cukr. Šneky polít po odstátí. 

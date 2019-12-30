@@ -2,7 +2,7 @@
   "name": "hexo-theme-doc-seed",
   "version": "0.1.0",
   "hexo": {
-    "version": "4.0.0"
+    "version": "3.9.0"
   },
   "dependencies": {
     "hexo": "^4.0.0",
