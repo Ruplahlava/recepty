@@ -511,3 +511,17 @@ Pečeme 3/4 hodiny potřené vejcem.
 > Dát do trouby vyhřáté na 180°C  a péct do zlatova 25-30 min. Ke konci stáhnout teplotu. Nechat chládnout 10 min.
 >
 > Všechny suroviny na polevu kromě cukru smíchat a poté postupně vešlehávat cukr. Šneky polít po odstátí. 
+
+## Muffiny
+
+* 170g másla
+* 2 cup hl mouky
+* 2 velká vejce
+* 1/2 cup plnotučného mlíka
+* 1/2 lžičky venilkového extraktu
+* 3/4 cup cukru
+* 2 lžícky prdopeč
+* 1/2 lžičky soli
+* + něco na zamíchání dovnitř (čokoláda atp)
+
+> Trouba na 190 °C, do vymazané formy cca 20 min.
