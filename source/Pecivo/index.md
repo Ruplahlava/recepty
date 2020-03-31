@@ -525,3 +525,13 @@ Pečeme 3/4 hodiny potřené vejcem.
 * + něco na zamíchání dovnitř (čokoláda atp)
 
 > Trouba na 190 °C, do vymazané formy cca 20 min.
+
+## Těsto na pizzu
+
+* 1 cup vlažné vody
+* pytlík sušeného droždí, nebo polovina čerstvého
+* lžička cukru
+* 2 cup hladké mouky
+* lžička soli
+
+> V míse smíchat vodu, kvasnice a cukr. Nechat na teple kvasnice rozjet. Ve velké míse smíchat zbylé suroviny a míchat do hladka. Vyndat z mísy a hníst ručně, dokuď to nepřestane lepit. Nechat v teple 30 minut kynout. Těsto jde použít hned, ale ideální je nechat ho odstát do druhého dne někde v chladu.

@@ -160,3 +160,36 @@ Rozlámaný chleba rozmixovat, poté slaninu. Neměla by to být úplná drť.
 
 > Krkovici nakrájet na velké kostky a spolu s ostatními surovinami nasypat do hrnce. Přikryté poklicí vařit na malém ohni 2 hodiny.
 Na konci vaření vše přendat do širokého pekáče a vrazit do vyhřáté trouby na 200 °C na půl hodiny. Maso vytáhnout z pekáče a šťávu zredukovat a poté vmíchat do masa. Podávat v tortille, se sekanými rajčaty, guacamole, salátem a sýrem. 
+
+## Švédské koule
+
+### Koule
+
+* 800 hovězí krk
+* 600 bůček
+* 2/3 cup strouhanky
+* 1 cup mlíka
+* 70ml šlehačky
+* 2 vejce
+* 2 stroučky česneku, drcené
+* bílý, černý pepř
+* muškátový oříšek
+* oregano
+* paprika
+* sušená cibule
+* rozmarýn
+* cibule najemno
+* čerstvá petrželka najemno
+* sůl (cca 15g)
+
+### Omáčka
+
+* 1/4 cup mouky
+* kelímek šlehačky
+* lžička dijon hořčice
+* lžíce sojovky
+* 250 + 250 ml hovězí/zeleninový vývar
+* sůl pepř
+
+> Ve velké míse smíchat všechny suroviny na koule, kromě masa. Nechat deset min odstát a poté vmíchat maso. Ze směsi vypracovat malé kuličky a ty v několika dávkách opražit na středním plameni na pánvi.
+> Ve výpeku udělat ze zbylých surovin omáčku, za stálého míchání nechat zhoustnout.

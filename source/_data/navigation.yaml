@@ -6,33 +6,27 @@ logo:
 main:
   - text: Recepty
     type: label
+  - text: Drůbeží
+    type: link
+    path: Drubezi/index.html
   - text: Grill
     type: link
     path: Grill/index.html
+  - text: Hovězí
+    type: link
+    path: Hovezi/index.html
+  - text: Omacky a Kořenící směsi
+    type: link
+    path: Omacky/index.html
   - text: Pečivo, sladké
     type: link
     path: Pecivo/index.html
   - text: Polívky
     type: link
     path: Polivky/index.html
-  - text: Vepřík
+  - text: Pomazánky
     type: link
-    path: Veprik/index.html
-  - text: Těstoviny
-    type: link
-    path: Testoviny/index.html
-  - text: Hovězí
-    type: link
-    path: Hovezi/index.html
-  - text: Drůbeží
-    type: link
-    path: Drubezi/index.html
-  - text: Vege
-    type: link
-    path: Vege/index.html
-  - text: Omacky a Kořenící směsi
-    type: link
-    path: Omacky/index.html
+    path: Pomazanky/index.html
   - text: Přílohy
     type: link
     path: Prilohy/index.html
@@ -42,9 +36,18 @@ main:
   - text: Sous vide
     type: link
     path: SousVide/index.html
-  - text: Pomazánky
-    type: link
-    path: Pomazanky/index.html
   - text: Stir Fry
     type: link
     path: StirFry/index.html
+  - text: Těstoviny
+    type: link
+    path: Testoviny/index.html
+  - text: Vepřík
+    type: link
+    path: Veprik/index.html
+  - text: Vege
+    type: link
+    path: Vege/index.html
+
+
+
