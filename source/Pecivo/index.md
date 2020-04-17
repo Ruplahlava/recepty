@@ -526,12 +526,16 @@ Pečeme 3/4 hodiny potřené vejcem.
 
 > Trouba na 190 °C, do vymazané formy cca 20 min.
 
-## Těsto na pizzu
+## Honzovy buchty
 
-* 1 cup vlažné vody
-* pytlík sušeného droždí, nebo polovina čerstvého
-* lžička cukru
-* 2 cup hladké mouky
-* lžička soli
+- kvasnice
+- 100 + 100 mlíka
+- 80 g cukru
+- 500g ph mouky
+- 100 + 150g sádla
+- 3 žloutky
+- náplň
 
-> V míse smíchat vodu, kvasnice a cukr. Nechat na teple kvasnice rozjet. Ve velké míse smíchat zbylé suroviny a míchat do hladka. Vyndat z mísy a hníst ručně, dokuď to nepřestane lepit. Nechat v teple 30 minut kynout. Těsto jde použít hned, ale ideální je nechat ho odstát do druhého dne někde v chladu.
+> Nechat vzejít kvásek v 100ml mlíka se lžičkou cukru.
+> Smíchat cukr, 100g rozpuštěného sádla, žloutky, mouku, cukr a kvásek. Hníst půl hodiny. Poté nechat hodinu kynout na vále přikryté. Rozválet na centimetr, rozkrájet na čtverečky a plnit náplní.
+> Nechat kynout další půlhodinu. Dát do trouby vyřáté na 180 °C a péct cca 20 minut.

@@ -74,3 +74,14 @@ oleji osmahneme
 
 > Bílky vyšlehat. Zbylé suroviny, kromě rohlíku smíchat, přidat rohlíky a potom opatrně přidat bílky.
 > Hrnec naplnit ani ne do půlky vodou, vzít provázek a namočenou utěrku a tu uvázat kolem hrnce. Vyklopit směs do utěrky a přikrýt mísou. Nechat 
+
+# Ramen nudle
+
+- 400g hl mouky
+- lžička soli 
+- lžička pečené jedlé sody
+- 2 velká vejce
+- 1/2 cup vlažné vody
+
+> Pečenou sodu získám upečením jedlé sody při 160 °C za půl hodiny.
+> Suroviny smíchat a ve strojku na těstoviny udělat nudle. 
