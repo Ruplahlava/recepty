@@ -246,3 +246,36 @@ tags:
 > Rozehřejte máslo ve velkém hrnci/pánvi na plný výkon. Opražte kuře a vytáhněte ho ven. Přidejte všechnu cibuli a pomalu ji restujte, dokud nebude zlatá. To může trvat až 20 minut.
 
 > Přidejte česnek a restujte než zkřehne. Vmíchejte všechno koření a restujte ještě minutu, dokud se nerozvoní. Pak přidejte rajčata, po pár minutách i smetanu. Omáčku pomocí ponorného mixéru nebo blenderu rozmixujte do hladka a podle chuti osolíme, případně nařeďte smetanou. Opět zahřejte a až bude omáčka jemně probublávat. Vmíchejte kuře, máslo.
+
+## Chicken korma
+
+- olej
+- 4 střední cibule
+- cca 10 kešu oříšků
+- řecký jogurt cca 300
+- lžička kurkumy
+- 2 lžičky koriandru
+- lžička chilli
+- 2 lžičky garam masala
+- kus skořice
+- 3 semínka kardamonu
+- 1 černý kardamon
+- 5 hřebíčků
+- 10 kuliček pepře
+- list bobkáče
+- kousek strouhaného zázvoru
+- 3 stroučky drceného česneku
+- 400g kuřecích stehen na kousky
+- cca 250 vody
+- sůl
+- čerstvý koriandr na dochucení
+
+> Cibuli nakrájíme a osmažíme pomalu na oleji dohněda, necháme vychladnout. Dohromady s kešu a troškou vody vyšlehat do tuhé pasty.
+>
+> V misce smíchat jogurt, koriandr, kurkumu, chilli a garam masalu.
+>
+> Ve stejné pánvi rozehřát olej a přidat kardamon, hřebíček, pepř, bobkáč a skořici. Až hřebíček začne pukat tak přidat zázvor a česnek, trošku osmažit a přidat kuře. To opékat chvíli, ať není úplně hotové.
+>
+> Vmíchat cibulovou pastu a ochucený jogurt a přidat sůl. Snížit plamen a vařit cca 10 minut, než se u okraje objeví oddělený olej. Poté přidat vodu a vařit cca ještě 15 minut, do změknutí kuřete.
+>
+> Ochutit sekaným koriandrem.
