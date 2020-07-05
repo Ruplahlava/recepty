@@ -4,6 +4,7 @@ title: Papiňák
 date: 2019-01-09 19:55:29
 tags:
 ---
+
 # Papiňák
 
 ![Časy vaření](./casy_vareni.png "Časy vaření")
@@ -30,4 +31,4 @@ tags:
 >
 > Papiňák utěsnit a vařit 23 min od vytvoření tlaku. Před odpouštním páry chvíli počkat a až poté páru odpustit
 >
-> Sundat víko, přidat škrob a omáčku lehce zredukovat. 
+> Sundat víko, přidat škrob a omáčku lehce zredukovat.
