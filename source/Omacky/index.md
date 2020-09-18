@@ -198,3 +198,10 @@ Hardcore verze vajec na hniličku
 - 1 lzicka kurkumy
 - 1 lzicka skorice
 - 1 lzicka susene bazalky
+
+## Okonomiyaki Sauce
+
+- 1 Tbsp white sugar
+- 2 Tbsp oyster sauce
+- 4 Tbsp ketchup
+- 3 ½ Tbsp worcestershire sauce
