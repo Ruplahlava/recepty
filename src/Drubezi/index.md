@@ -1,8 +1,5 @@
 ---
-layout: page
-title: Drubez
-date: 2019-01-07 12:28:57
-tags:
+sidebar: auto
 ---
 
 ## Kuřecí stehna s medouvou hořčicí
