@@ -205,3 +205,15 @@ Hardcore verze vajec na hniličku
 - 2 Tbsp oyster sauce
 - 4 Tbsp ketchup
 - 3 ½ Tbsp worcestershire sauce
+
+## Al pastor
+
+- sušený česnek
+- římský kmín
+- sušená cibule
+- koriandr
+- chipotle
+- oregano
+- ancho
+- guajillo
+- sůl

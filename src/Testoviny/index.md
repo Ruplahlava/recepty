@@ -37,15 +37,7 @@ tags:
 - plátky lasagní
 - parmezán na posypání
 
-### Bešamel
-
-- 4 lžíce hladké mouky
-- 40g másla
-- 600ml mléka
-- 50g parmezánu
-- sůl, pepř
-
-### Masová směs
+## Masová směs
 
 - 600g hovězího mletého masa
 - 4 plátky slaniny
@@ -129,3 +121,13 @@ tags:
 > Mléko s cibulí na půlky, česnekem a bobkáčem přivedeme k varu a necháme potom odstát 20 min.
 > Máslo v jiném kastrolu rozpustime a přimícháme mouku, chvíli opékáme.
 > Postutpně přimíchát zcezené mléko a chvíli povařit.
+
+## Ramen nudle
+
+- 3 cup hl mouky
+- lžička soli
+- lžička pečené jedlé sody
+- 2 velká vejce
+- 1/2 cup teplé vody
+
+> Jedlou sudu péct cca 20 min na 180°.

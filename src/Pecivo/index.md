@@ -584,3 +584,38 @@ tags:
 > Nechat vzejít kvásek v 100ml mlíka se lžičkou cukru.
 > Smíchat cukr, 100g rozpuštěného sádla, žloutky, mouku, cukr a kvásek. Hníst půl hodiny. Poté nechat hodinu kynout na vále přikryté. Rozválet na centimetr, rozkrájet na čtverečky a plnit náplní.
 > Nechat kynout další půlhodinu. Dát do trouby vyřáté na 180 °C a péct cca 20 minut.
+
+## Těsto na pizzu
+
+- 425g 00 mouky, nebo hladké
+- 6g sušeného droždí
+- 275g vody
+- 8g soli
+
+> Suroviny smíchat a hníst jak je libo. Z těsta udělat hladkou kouli a vložit do naolejované mísy, utěsnit folií a vložit do ledničky na min 48 hodin. Před pečením vytáhnout na 1,5h na teplo. Toto množství je na cca 3 menší pizzy.
+
+## Kynutá litá bychta
+
+### Na Těsto
+
+- 500 hl mouky
+- 500 mlíka 
+- 200 cukru
+- 2 vejce
+- 30 droždí
+- 100g rozpuštěného másla
+- špetka soli
+- velká sklenice kompotovaného ovoce, případně asi 15 kousků čerstvých švestek nebo meruněk
+
+### Na drobenku
+
+- 50 g másla
+- 50 g mletých vlašských ořechů (můžete nahradit hrubou moukou)
+- 50 g hrubé mouky
+- 50 g moučkového cukru
+- 1/2 lžičky mleté skořice
+
+> Droždí rozdrobte do malé misky, zasypte lžící cukru a rozmíchejte na kaši. Netvrďte, že to nejde, a zkuste to. Poté zasypte lžící mouky, zalijte 100 ml vlažného (pozor, ne horkého) mléka, promíchejte vidličkou a nechte chvíli při pokojové teplotě probouzet. Pokud bylo droždí v pořádku, během deseti minut vytvoří z té trochy surovin obrovskou, hustou, napěněnou čepici. Pokud ne, dejte mu ještě dalších deset minut šanci, a když ani to nepomůže, začněte znovu s novým droždím. Tohle už se k životu neprobudí.
+> Mezitím ve větší míse smíchejte prosátou mouku, cukr a špetku soli. Ve vlažném mléce rozkvedlejte vajíčka a rozpuštěné máslo. Jakmile budete mít připravený kvásek z předchozího bodu, přestěhujte ho do mísy k mouce. Zalijte mléčnou směsí a metličkou všechno promíchejte, aby vzniklo tekuté těsto téměř bez hrudek. Zakryjte utěrkou a postavte na teplé místo, třeba poblíž vypnutého, ještě nedávno použitého vařiče. Pokud nemáte v kuchyni vyloženě zimu pod dvacet stupňů, těsto vám bez problémů vykyne i při pokojové teplotě. Trpělivě vyčkejte, až zdvojnásobí svůj objem, mělo by to trvat zhruba hodinu. Pro tyto účely se skvěle hodí mísy, které svým tvarem připomínají spíš válec, než kulovou sféru, protože v nich snadněji odhadnete, kdy těsto narostlo do dvojnásobného množství.
+> Velký plech na pečení vyložte pečícím papírem. Těsto po vykynutí důrazně promíchejte a vyžeňte z něj vzniklé vzduchové bubliny, pak ho nalijte na plech a nechte ho svému osudu ještě polovinu doby, kterou potřebovalo na předchozí kynutí. Pokud prve kynulo hodinu, nyní bude potřebovat půl hodiny. V tomto mezičase v další misce smíchejte všechny suroviny na drobenku a s pomocí prstů je promněte, až vznikne sypká hrudkovitá směs. Ovoce sceďte z nálevu. Pokud máte ovoce čerstvé, umyjte ho, rozpulte a vypeckujte. Troubu předehřejte na 180 stupňů.
+> Na vykynuté těsto na plechu rozložte ovoce (čerstvé přijde řeznou stranou nahoru). Zasypte je drobenkou a plech zasuňte do vyhřáté trouby. Po deseti minutách pečení snižte teplotu na 160 stupňů a dopékejte ještě dalších 30 minut. Jakmile táč zezlátne a odstoupí od krajů plechu, je upečeno. Test dotykem vám příliš nepomůže, buchta je i po upečení právě pro množství tekutin docela pružná a měkká. Než trochu zchladne, zpevní, nemáte se čeho obávat.

@@ -92,3 +92,13 @@ tags:
   > nudle dle návodu.
   > Do velké misky dáme nudle, zalejeme vývarem, přidáme maso
   > a nakonec vejce. Sežereme.
+
+## Knedlíky do polívky
+
+- sůl
+- 2 vejce
+- krupice
+- máslo (cca 120g)
+- pažitka
+
+> Vejce rozklepnout do mísy, rozšlehat s rozpuštěným máslem, pažitkou a solí. Postupně přidat tolik krupice aby vzniklo husté těsto. To ukrajujeme lžící do vroucího vývaru.
