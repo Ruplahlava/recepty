@@ -21,3 +21,25 @@ tags:
 - strouhané nakladačky
 - vejce na tvrdo
 - krémžská hořčice
+
+## Tahini
+
+- sezamový semínka
+- olej dle chuti
+- sůl
+
+Na pánvi lehce opéct semínka. Narvat do food procesoru a nechat chvíli mixovat, přidat sůl a postupně olej - kolik záleží na požadované konzistenci.
+
+## Hummus
+
+- cizrnu uvařit dle návodu na sáčku, cca 170g
+- 60ml (velký citron) citronové šťávy
+- 100ml tahini
+- 30ml oliváč
+- mletý římský kmín
+- sůl
+- strouček česneku
+- ledovou vodu
+- chilli
+
+> Cizrnu rozšlehat ve food procesoru, přidat zbylé suroviny.
