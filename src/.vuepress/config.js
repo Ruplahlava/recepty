@@ -32,7 +32,29 @@ module.exports = {
     editLinkText: '',
     lastUpdated: false,
     displayAllHeaders: true,
-    nav: [],
+    nav: [
+      {
+        text: 'Sekce',
+        ariaLabel: 'Sekce receptů',
+        items: [
+          { text: 'Grill', link: '/Grill/' },
+          { text: 'Hovězí', link: '/Hovezi/' },
+          { text: 'Drůbeží', link: '/Drubezi/' },
+          { text: 'Omáčky a kořenící směsi', link: '/Omacky/' },
+          { text: 'Pečivo a sladké', link: '/Pecivo/' },
+          { text: 'Polívky', link: '/Polivky/' },
+          { text: 'Přílohy', link: '/Prilohy/' },
+          { text: 'Ryby', link: '/Ryby/' },
+          { text: 'Těstoviny', link: '/Testoviny/' },
+          { text: 'Vege', link: '/Vege/' },
+          { text: 'Vepřík', link: '/Veprik/' },
+          { text: 'Sous vide', link: '/SousVide/' },
+          { text: 'Papiňák', link: '/Papinak/' },
+          { text: 'Pomazanky', link: '/Pomazanky/' },
+          { text: 'Stir Fry', link: '/StirFry/' },
+        ]
+      }
+    ],
     sidebar: auto,
     dest: 'public',
   },
