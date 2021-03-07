@@ -15,5 +15,5 @@
 - [Sous vide](/SousVide)
 - [Papiňák](/Papinak)
 - [Pomazánky](/Pomazanky)
+- [Syry](/Syry)
 - [Stir Fry](/StirFry)
-`
