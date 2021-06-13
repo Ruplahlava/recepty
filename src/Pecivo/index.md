@@ -619,3 +619,28 @@ tags:
 > Mezitím ve větší míse smíchejte prosátou mouku, cukr a špetku soli. Ve vlažném mléce rozkvedlejte vajíčka a rozpuštěné máslo. Jakmile budete mít připravený kvásek z předchozího bodu, přestěhujte ho do mísy k mouce. Zalijte mléčnou směsí a metličkou všechno promíchejte, aby vzniklo tekuté těsto téměř bez hrudek. Zakryjte utěrkou a postavte na teplé místo, třeba poblíž vypnutého, ještě nedávno použitého vařiče. Pokud nemáte v kuchyni vyloženě zimu pod dvacet stupňů, těsto vám bez problémů vykyne i při pokojové teplotě. Trpělivě vyčkejte, až zdvojnásobí svůj objem, mělo by to trvat zhruba hodinu. Pro tyto účely se skvěle hodí mísy, které svým tvarem připomínají spíš válec, než kulovou sféru, protože v nich snadněji odhadnete, kdy těsto narostlo do dvojnásobného množství.
 > Velký plech na pečení vyložte pečícím papírem. Těsto po vykynutí důrazně promíchejte a vyžeňte z něj vzniklé vzduchové bubliny, pak ho nalijte na plech a nechte ho svému osudu ještě polovinu doby, kterou potřebovalo na předchozí kynutí. Pokud prve kynulo hodinu, nyní bude potřebovat půl hodiny. V tomto mezičase v další misce smíchejte všechny suroviny na drobenku a s pomocí prstů je promněte, až vznikne sypká hrudkovitá směs. Ovoce sceďte z nálevu. Pokud máte ovoce čerstvé, umyjte ho, rozpulte a vypeckujte. Troubu předehřejte na 180 stupňů.
 > Na vykynuté těsto na plechu rozložte ovoce (čerstvé přijde řeznou stranou nahoru). Zasypte je drobenkou a plech zasuňte do vyhřáté trouby. Po deseti minutách pečení snižte teplotu na 160 stupňů a dopékejte ještě dalších 30 minut. Jakmile táč zezlátne a odstoupí od krajů plechu, je upečeno. Test dotykem vám příliš nepomůže, buchta je i po upečení právě pro množství tekutin docela pružná a měkká. Než trochu zchladne, zpevní, nemáte se čeho obávat.
+
+## Anglický Bakewell tart
+
+### Těsto
+
+- 200 hl mouky
+- 1/2 lžičky prdopeč
+- 120 změklého másla
+- 145 cukr krupice
+- vejce 
+- špetka soli
+
+### Náplň a krytí
+- 180 másla
+- 180 cukr krupice
+- 3 vejce 
+- 1 lžička vanilkového extraktu
+- 180 mandlové mouky
+- 200 malinový/rybízový džem
+- 40g mandlových lupínků
+
+> Suroviny na těsto zpracovat do kompaktního těsta. Vyválet na váleček o průměru 5cm, zabalit do folie a dát vychladit do lednice.
+> Těsto cyválet na vyložit jím koláčovoou formu o průměru 23cm. Dát chladit.
+> Troubu na 180°C, na těsto pečící papír a fazole, péct 15 min, odstranit papír i fazole a péct ještě 10 min.
+> Na náplň prošlehat máslo s cukrem, přidat jedno vejce, vanilkový extrakt a mandlovou mouku. Džemem potřít korpus a poté náplň. Posypat plátky mandlí a dát péct na 40 - 45 min. Pokud zlátne příliš rychle, přikrýt alobalem. Posypat moučkovým cukrem a podávat.
