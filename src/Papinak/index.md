@@ -32,3 +32,4 @@ tags:
 > Papiňák utěsnit a vařit 23 min od vytvoření tlaku. Před odpouštním páry chvíli počkat a až poté páru odpustit
 >
 > Sundat víko, přidat škrob a omáčku lehce zredukovat.
+> Testujeme build
