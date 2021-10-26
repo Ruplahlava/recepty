@@ -644,3 +644,13 @@ tags:
 > Těsto cyválet na vyložit jím koláčovoou formu o průměru 23cm. Dát chladit.
 > Troubu na 180°C, na těsto pečící papír a fazole, péct 15 min, odstranit papír i fazole a péct ještě 10 min.
 > Na náplň prošlehat máslo s cukrem, přidat jedno vejce, vanilkový extrakt a mandlovou mouku. Džemem potřít korpus a poté náplň. Posypat plátky mandlí a dát péct na 40 - 45 min. Pokud zlátne příliš rychle, přikrýt alobalem. Posypat moučkovým cukrem a podávat.
+
+## Vafle
+
+- 1/2 lžičky soli
+- 175g hl mouky
+- 3 velká vejce
+- 7 lžic oleje
+- 150ml mléka
+- 1 lžíce cukr krystal
+- prdopeč 
