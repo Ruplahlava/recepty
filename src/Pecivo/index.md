@@ -654,3 +654,29 @@ tags:
 - 150ml mléka
 - 1 lžíce cukr krystal
 - prdopeč 
+
+## Sakrajda - Plněný perník podle strážnícké babičky
+
+- 400g hl mouky
+- 120g medu
+- 200 cukru
+- lžíce rumu
+- 2 lžíce mlíka
+- 2 vejce
+- 1/2 prdopeč
+- koření na perník
+
+> Těsto rozdělit na 3 dávky, rozválet na pásy jak štrůdl, naplnit hodně povidly, zabalit.
+> po vychladnutí polít čokoládou
+
+## Corn shortbread
+
+- 125 g caster sugar
+- 125 g cornflour
+- 2 cups plain flour
+- 250 g butter melted
+
+> Mix dry ingredients together.
+> Mix in butter until well combined.
+> Press into an ungreased 28cm x 18cm lamington pan and bake at 170C for 30 minutes.
+> Remove from oven, cut into 24 squares, sprinkle evenly with caster sugar and prick each piece with a fork. Return to oven for 15 minutes. Cool in tin.

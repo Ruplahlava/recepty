@@ -25,3 +25,21 @@ tags:
 > Do woku přidat větší množství oleje, půl hrnku a rozehřát na vyšší střední teplotu.
 > Směs vlít do woku a asi po minutě začít roztahovat směs do okrajů pánve. Vzít velkou naběračku a po částech otočit a opéct z druhé strany.
 > Servérovat s rýží.
+
+## Stirfry noodles
+
+### Noodle sauce
+- 250ml hot water
+- 1 teaspoon sugar
+- 1 teaspoon chicken stock powder (optional)
+- 1 tablespoon oyster sauce
+- 1 tablespoon light soy sauce
+- 2.5 tablespoons dark soy sauce
+- A few dashes of white pepper
+- 1 tablespoon sesame oil
+
+### Other ingredients
+- 6 cloves chopped garlic
+- 3 stalks of spring onion (add white stems first then add the green part towards the end)
+- 500g egg noodles
+- 160g beansprouts (remove the head & tail) / 
