@@ -43,3 +43,14 @@ Na pánvi lehce opéct semínka. Narvat do food procesoru a nechat chvíli mixov
 - chilli
 
 > Cizrnu rozšlehat ve food procesoru, přidat zbylé suroviny.
+
+## Obatzda
+
+- 300g francouzského brie
+- 100g lučina
+- 125g máslo
+- mletý kmín
+- sladká paprika
+- pšeničné pivo dle konzistence
+
+> Brie nakrájet na kostičky, smíchat s ostatními surovinami a solí. Nechat v pokojové teplotě odstát dvě hodiny. Poté strčit do lednice.
