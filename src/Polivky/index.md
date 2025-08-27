@@ -102,3 +102,18 @@ tags:
 - pažitka
 
 > Vejce rozklepnout do mísy, rozšlehat s rozpuštěným máslem, pažitkou a solí. Postupně přidat tolik krupice aby vzniklo husté těsto. To ukrajujeme lžící do vroucího vývaru.
+
+## Kukuřičný chowder
+
+- vývar
+- 3 kukuřice v plechu
+- cibule
+- česnek
+- máslo
+- mouka
+- parmezan
+- anglická slanina
+- mlíko
+
+> Osmažit slaninu na kousky, přidat cibuli a osolit. Přidat 1/4 másla. Smažit dokud to nelítá po hrnci. Přidat česnek a opéct. Přidat mouku, cca stejně jako je tam tuku. Opéct, lehce, a zalít mlíkem, měla by vzniknout tužší hmota. Přidat kukuřici a vývar.
+> Vařit asi 20 minut. Po stažení z ohně přidat parmezán a už nevařit. Osolit a opepřit. Dobrovolná špetka chilli.
