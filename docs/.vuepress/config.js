@@ -11,7 +11,24 @@ export default defineUserConfig({
   theme: defaultTheme({
     logo: 'https://vuejs.press/images/hero.png',
 
-    navbar: ['/', '/Grill/', '/Hovezi/', '/Drubezi/', '/Omacky/', '/Pecivo/', '/Polivky/', '/Prilohy/', '/Ryby/', '/Testoviny/', '/Vege/', '/Veprik/', '/SousVide/', '/Papinak/', '/Pomazanky/', '/StirFry/'],
+    navbar: [
+      '/',
+      '/Grill/',
+      '/Hovezi/',
+      '/Drubezi/',
+      '/Omacky/',
+      '/Pecivo/',
+      '/Polivky/',
+      '/Prilohy/',
+      '/Ryby/',
+      '/Testoviny/',
+      '/Vege/',
+      '/Veprik/',
+      '/SousVide/',
+      '/Papinak/',
+      '/Pomazanky/',
+      '/StirFry/'
+    ],
   }),
 
   bundler: viteBundler(),
