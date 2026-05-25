@@ -1,5 +1,6 @@
 ---
-
+title: Drubezi
+type: drubezi
 ---
 
 ## Kuřecí stehna s medouvou hořčicí

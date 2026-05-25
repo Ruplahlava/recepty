@@ -128,3 +128,12 @@ title: Testoviny
 - 1/2 cup teplé vody
 
 > Jedlou sudu péct cca 20 min na 180°.
+
+## Gyoza těsto
+- 360g hl mouky
+- 180ml vroucí vody
+- lžička soli
+
+> V misce smíchat mouku a sůl. Vařečkou vmíchat vroucí vodu a poté 10 minut ručně hníst.
+> Z těsta udělat hady tlusté cca 2 cm, zabalit je do potravinové folie a dát na 30 min do lednice.
+> Rozdělit na 9g kousky -> kuličky -> vyválet kolečka a plnit.

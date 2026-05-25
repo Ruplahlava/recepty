@@ -677,3 +677,25 @@ title: Pečivo, sladké
 > Mix in butter until well combined.
 > Press into an ungreased 28cm x 18cm lamington pan and bake at 170C for 30 minutes.
 > Remove from oven, cut into 24 squares, sprinkle evenly with caster sugar and prick each piece with a fork. Return to oven for 15 minutes. Cool in tin.
+
+## Trhací skořicová buchta
+
+### Těsto
+- forma na biskupský chlebíček
+- ~ 300g hl mouky
+- 5g sušené droždí
+- 2 vejce
+- 80 mléka
+- 40g cukru
+- 70g másla
+- 0-60g vody dle potřeby
+- sůl
+
+### Směs na promazání
+
+- rozměklé máslo 125g
+- hnědý cukr 
+- mletá skořice
+- vanilkové aroma
+
+>  Těsto vypracovat v robotu a nechat vykynout na dvojnásobek. Rozválet na obdelník cca 30 x 50. Promazat směsí. Rozříznout na 3 části a ty dát přes sebe jako sandwich. Toto rozříznout na 6ks a plnit nastojato do fomy. Nechat ještě 20 min kynout a poté péct na 180 cca půl hodiny.
