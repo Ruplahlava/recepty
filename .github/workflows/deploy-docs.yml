@@ -34,7 +34,7 @@ jobs:
       - name: Deploy to External Repository
         uses: peaceiris/actions-gh-pages@v4
         with:
-          personal_token: ${{ secrets.recepty_deploy }}
+          personal_token: ${{ secrets.RECEPTY_DEPLOY }}
           external_repository: ruplahlava/ruplahlava.github.io
           publish_dir: ./docs/.vuepress/dist
           publish_branch: master
