@@ -1,6 +1,7 @@
 import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
+import { searchPlugin } from "@vuepress/plugin-search";
 
 export default defineUserConfig({
   base: '/',
@@ -8,7 +9,11 @@ export default defineUserConfig({
 
   title: 'Recepty',
   description: 'Moje recepty',
-
+  plugins: [
+    [searchPlugin({
+      maxSuggestions: 10,
+    })]
+  ],
   theme: defaultTheme({
     logo: 'https://vuejs.press/images/hero.png',
 
